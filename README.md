@@ -1,6 +1,3 @@
-# Internet-of-Things-IoT - Smart-Home-System
-Internet of Things (IoT) - Smart Home System
-
 ## ThermoSense - Temperature & Humidity Monitoring System
 ### Group Leader - Kavindu Kasthurirathne
 ### Member 2 - Minindu Thilakarathne
